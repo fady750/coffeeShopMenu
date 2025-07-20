@@ -25,7 +25,7 @@ function MyNavbar() {
         <nav>
             <div className="" >
                 <a href="#hero" className=" flex items-center gap-2" >
-                    <img src="/public/images/logo.png" alt="Logo" />
+                    <img src="/images/logo.png" alt="Logo" />
                     <p>Renaissance</p>
                 </a>
                 <ul>

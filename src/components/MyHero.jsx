@@ -76,7 +76,7 @@ function MyHero() {
                 </div>
             </section>
             <div className="video absolute inset-0" >
-                <video src="/public/videos/output.mp4"  muted playsInline preload="auto" ref={viderRef} />
+                <video src="/videos/output.mp4"  muted playsInline preload="auto" ref={viderRef} />
             </div>
         </>
     )

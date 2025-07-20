@@ -56,11 +56,11 @@ function MyMenu() {
                 <div className="arrows">
                     <button className="text-left" onClick={()=>goToNextSlide(currantIndex-1)} >
                         <span>{getCoffee(currantIndex-1).name}</span>
-                        <img src="/public/images/right-arrow.png" aria-hidden="true" alt="right-arrow" />
+                        <img src="/images/right-arrow.png" aria-hidden="true" alt="right-arrow" />
                     </button>
                     <button className="text-right" onClick={()=>goToNextSlide(currantIndex+1)} >
                         <span>{getCoffee(currantIndex+1).name}</span>
-                        <img src="/public/images/left-arrow.png" aria-hidden="true" alt="left-arrow"/>
+                        <img src="/images/left-arrow.png" aria-hidden="true" alt="left-arrow"/>
                     </button>
                 </div>
                 <div className="cocktail" >

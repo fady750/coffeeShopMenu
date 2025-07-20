@@ -62,25 +62,25 @@ function MyAbout() {
             <div className="top-grid">
                 <div className="md:col-span-3">
                     <div  className=""/>
-                    <img src="/public/images/abt1.png" alt="grid-image-1" />
+                    <img src="/images/abt1.png" alt="grid-image-1" />
                 </div>
                 <div className="md:col-span-6">
                     <div  className=""/>
-                    <img src="/public/images/abt2.png" alt="grid-image-2" />
+                    <img src="/images/abt2.png" alt="grid-image-2" />
                 </div>
                 <div className="md:col-span-3">
                     <div  className=""/>
-                    <img src="/public/images/abt5.jpeg" alt="grid-image-5" />
+                    <img src="/images/abt5.jpeg" alt="grid-image-5" />
                 </div>
             </div>
             <div className="bottom-grid">
                 <div className="md:col-span-8">
                     <div  className=""/>
-                    <img src="/public/images/abt3.jpg" alt="grid-image-3" />
+                    <img src="/images/abt3.jpg" alt="grid-image-3" />
                 </div>
                 <div className="md:col-span-4">
                     <div  className=""/>
-                    <img src="/public/images/abt4.jpg" alt="grid-image-4" />
+                    <img src="/images/abt4.jpg" alt="grid-image-4" />
                 </div>
             </div>
         </div>
